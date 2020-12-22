@@ -20,8 +20,6 @@ Example:
 
 WHATS MISSING?
 
-→ Castle
-
 → En Passant
 
 → Check
